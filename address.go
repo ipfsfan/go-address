@@ -52,7 +52,7 @@ const (
 )
 
 // MainnetPrefix is the main network prefix.
-const MainnetPrefix = "f"
+const MainnetPrefix = "w"
 
 // TestnetPrefix is the test network prefix.
 const TestnetPrefix = "t"
